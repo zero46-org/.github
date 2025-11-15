@@ -3,6 +3,7 @@
 ### From Sensor to Cloud to Dashboard
 
 We're an IoT and Cloud consulting agency that helps industrial and data-driven enterprises design, build, and scale connected systems.
+Visit our website for more information zero46.com
 
 ---
 
